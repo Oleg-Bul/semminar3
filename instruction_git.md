@@ -1,6 +1,6 @@
 # **Инструкция по работе с Git**
 
-![git logo](git.bmp)
+![git logo](https://avatars.mds.yandex.net/i?id=5f81433200ce52b5a2cd801c812c5adb-4865933-images-thumbs&n=13)
 
 ## Инициализация репозитория
 
